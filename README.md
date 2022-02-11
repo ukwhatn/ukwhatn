@@ -1,16 +1,27 @@
-### Hi there 👋
+### Profile
 
-<!--
-**ukwhatn/ukwhatn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Yuki Watanabe (ukwhatn)
 
-Here are some ideas to get you started:
+* **Main**: Python, PHP, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[SCP-JP](http://scp-jp.wikidot.com)**
+  * Wiki Moderator / サイトモデレーター
+  * **Staff Team**: Technical(Captain), Tagging, Outreach, Event
+
+* **Kindai University**
+  * Faculty of Science & Engineering, Department of Informatics
+
+
+
+
+
+### Stats
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukwhatn&theme=dracula)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukwhatn&layout=compact&theme=dracula)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ukwhatn&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ukwhatn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

@@ -5,7 +5,7 @@
 * **Main**: Python, PHP, JavaScript
 
 * **[SCP-JP](http://scp-jp.wikidot.com)**
-  * Wiki Moderator / サイトモデレーター
+  * **Wiki Moderator / サイトモデレーター**
   * **Staff Team**: Technical(Captain), Tagging, Outreach, Event
 
 * **Kindai University**

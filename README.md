@@ -20,7 +20,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukwhatn&theme=dracula)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukwhatn&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukwhatn&layout=compact&theme=dracula&count_private=true)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ukwhatn&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

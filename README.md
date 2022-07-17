@@ -16,12 +16,9 @@
 
 
 ### Stats
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukwhatn&theme=dracula)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukwhatn&layout=compact&theme=dracula&count_private=true)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ukwhatn&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukwhatn&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukwhatn&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ukwhatn&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ukwhatn&theme=dracula&utcOffset=9)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ukwhatn&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

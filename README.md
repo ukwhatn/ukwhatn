@@ -25,7 +25,7 @@
 
 * **[SCP-JP](http://scp-jp.wikidot.com)**
   * **Wiki Moderator / サイトモデレーター**
-  * **Staff Team**: Technical(Captain), Tagging, Outreach, Event
+  * **Staff Team**: Technical
 
 * **Kindai University**
   * Faculty of Science & Engineering, Department of Informatics

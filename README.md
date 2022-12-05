@@ -8,9 +8,8 @@
     * Asynchronous HTTP Requests
     * FastAPI
   * **PHP**
-    * Backend for WebApps
+    * Vanilla: Backend for WebApps
   * **JavaScript / TypeScript**
-    * Frontend Ajax request
     * React : Frontend for WebApps
     * Next.js : Backend for WebApps
   * **Kotlin**

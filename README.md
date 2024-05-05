@@ -57,8 +57,7 @@
 ![image](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
-![image](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white
-	)
+![image](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ##### OS
@@ -67,7 +66,6 @@
 ![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![image](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-
 
 
 ##### Tools
@@ -88,9 +86,9 @@
 
 
 ### Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ukwhatn&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukwhatn&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukwhatn&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ukwhatn&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ukwhatn&theme=monokai&utcOffset=9)
-![](https://github-profile-trophy.vercel.app/?username=ukwhatn&theme=monokai)
+![](https://github-readme-stats-rho-two-78.vercel.app/api?username=ukwhatn&count_private=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukwhatn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukwhatn)
+
+

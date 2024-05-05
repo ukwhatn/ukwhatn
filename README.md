@@ -1,17 +1,20 @@
 # Yuki Watanabe (ukwhatn)
 <a href="https://twitter.com/ukwhatn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
-
-
 ### About me
 * **23yo Japanese student majoring in computer science**
   * Kindai Univ. Faculty of S&E, Dept. of Informatics
 
-* **[SCP Foundation Japanese Wiki](https://github.com/scp-jp)**
-  * Wiki Administrator / Software Engineer for the worldwide communities
+* **Web Backend Engineer**
 
-* **Kindai University**
-  * Faculty of Science & Engineering, Department of Informatics
+* **[SCP Foundation Japanese Wiki](https://github.com/scp-jp)**
+  * Wiki Administrator / Software Engineer for the worldwide community
+
+* **[KINDAI Info-Tech HUB](https://kithub.jp)**
+  * Board Member / System Administrator
+
+* **[NxTEND](https://nxtend.or.jp)**
+  * Eventer for Student Engineers in Japan
 
 ### SKILLS
 #### Languages

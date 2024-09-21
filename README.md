@@ -2,9 +2,6 @@
 <a href="https://twitter.com/ukwhatn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
 ### About me
-* **23yo Japanese student majoring in computer science**
-  * Kindai Univ. Faculty of S&E, Dept. of Informatics
-
 * **Web Backend Engineer**
 
 * **[SCP Foundation Japanese Wiki](https://github.com/scp-jp)**

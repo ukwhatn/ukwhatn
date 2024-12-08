@@ -50,10 +50,3 @@
 ![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![image](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### Stats
-![](https://github-readme-stats-rho-two-78.vercel.app/api?username=ukwhatn&count_private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ukwhatn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ukwhatn)
-
-

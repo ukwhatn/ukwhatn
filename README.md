@@ -2,8 +2,6 @@
 <a href="https://x.com/ukwhatn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 
 ### About me
-* **Web Backend Engineer**
-
 * **[SCP Foundation Japanese Wiki](http://scp-jp.wikidot.com)**
   * Wiki Administrator / System Administrator / Software Engineer
  
